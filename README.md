@@ -134,23 +134,9 @@ Add your screenshots here:
 
 ---
 
-## 🔮 Future Improvements
-
-- User authentication
-- Hybrid recommendation system
-- Movie ratings and reviews
-- Watchlist functionality
-- Movie trailer integration
-- Cloud deployment
-
----
 
 ## 🤝 Contributing
 
 Contributions are welcome. Feel free to fork this repository and submit a pull request.
 
 ---
-
-## 📜 License
-
-This project is available under the MIT License.
