@@ -17,7 +17,7 @@ export default function Home() {
 
   const fetchPopular = async () => {
     try {
-      const res = await axios.get("http://127.0.0.1:8001/get-top-movies");
+      const res = await axios.get("http://127.0.0.1:8000/get-top-movies");
       setMovies(res.data);
 
       // top movie for hero section

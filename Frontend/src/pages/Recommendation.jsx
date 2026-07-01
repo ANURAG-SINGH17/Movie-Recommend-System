@@ -23,7 +23,7 @@ export default function Recommendation() {
       setLoading(true);
 
       const res = await axios.get(
-        `http://127.0.0.1:8001/recommend/${decodedTitle}`
+        `http://127.0.0.1:8000/recommend/${decodedTitle}`
       );
 
       setMovie(res.data.query_movie);
